@@ -1,6 +1,7 @@
 To do list :
 ------------
-- Trouver les équations pour le circuit RC (lundi) ;
+- Trouver les ï¿½quations pour le circuit RC (lundi) ;
+- Finir le labo de la semaine passÃ©e(lundi);
 - Faire le devoir 2 de chimie (lundi) ;
 - Ecrire le cahier des charges ;
 - Documentation sur le haut parleur ;
